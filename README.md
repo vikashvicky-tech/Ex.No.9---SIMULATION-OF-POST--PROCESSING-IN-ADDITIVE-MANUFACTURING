@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 12-3-2026
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/935fa463-a5a5-41dc-9264-014a98fa8f7f" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/29c094b8-fe3c-4cc1-b5f7-1229e6a34ead" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6babb3d5-75c5-43af-96d6-1c950bfbd446" />
 
-### Name:
-### Register Number:
+
+
+### Name:vikash.s
+### Register Number:212225040490
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
